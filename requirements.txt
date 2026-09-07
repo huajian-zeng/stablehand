@@ -1,0 +1,16 @@
+# Inference (install torch first, matching your CUDA -- see README Installation; it is
+# intentionally not listed here so pip does not replace your build)
+-c requirements-lock.txt
+numpy
+scipy
+tqdm
+smplx
+opencv-python
+huggingface-hub>=1.2,<2  # hf download with automatic rate-limit retries
+
+# Visualization (interactive 3D viewer for the .rrd recordings)
+rerun-sdk==0.23.1  # recordings are written with this SDK line; keep versions aligned
+
+# Build prerequisites for the pinned chumpy source install (--no-build-isolation).
+setuptools
+wheel

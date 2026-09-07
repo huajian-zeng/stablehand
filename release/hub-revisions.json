@@ -1,0 +1,14 @@
+{
+  "model": {
+    "repo_id": "huajian-zeng/stablehand",
+    "revision": "b523aa8c9875197ec7c5bf90025757ea1fc3de33",
+    "local_dir": "save",
+    "allow_patterns": ["MANIFEST.json", "dit_hot3d/**", "dit_arctic/**", "qn/**"]
+  },
+  "dataset": {
+    "repo_id": "huajian-zeng/stablehand-data",
+    "revision": "48aa5fdc31100fea1155cfef41344fb8fee5b179",
+    "local_dir": ".",
+    "allow_patterns": ["data/**"]
+  }
+}

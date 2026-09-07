@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Checkpoints (downloaded from Hugging Face into save/)
+save/
+*.pt
+*.pth
+*.ckpt
+
+# Data package (downloaded from Hugging Face into data/)
+data/
+.cache/huggingface/
+*.npz
+*.npy
+
+# MANO models (registration-gated download; never redistributed)
+*.pkl
+
+# Generated outputs
+outputs/
+*.rrd
+*.mp4
+*.log
+
+# Internal release-staging material (never ships)
+_SPECS/
+_kat/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
