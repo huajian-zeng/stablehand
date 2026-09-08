@@ -15,6 +15,7 @@
 [![arXiv](https://img.shields.io/badge/Arxiv-2605.18553-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2605.18553)
 [![Homepage](https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue)](https://huajian-zeng.github.io/projects/stablehand/)
 [![Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/2UmaYTKQOAM)
+[![HF Space](https://img.shields.io/badge/%F0%9F%A4%97%20Space-StableHand%20Demo-yellow)](https://huggingface.co/spaces/huajian-zeng/stablehand-demo)
 [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-stablehand-yellow)](https://huggingface.co/huajian-zeng/stablehand)
 [![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-stablehand--data-yellow)](https://huggingface.co/datasets/huajian-zeng/stablehand-data)
 
