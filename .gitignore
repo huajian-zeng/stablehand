@@ -22,8 +22,6 @@ data/
 outputs/
 *.rrd
 *.mp4
-# Curated browser-ready examples are part of the static gallery source bundle.
-!/static_space/media/*.mp4
 *.log
 
 # Internal release-staging material (never ships)

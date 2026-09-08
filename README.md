@@ -17,7 +17,6 @@
 [![Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/2UmaYTKQOAM)
 [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-stablehand-yellow)](https://huggingface.co/huajian-zeng/stablehand)
 [![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-stablehand--data-yellow)](https://huggingface.co/datasets/huajian-zeng/stablehand-data)
-[![Static Gallery](https://img.shields.io/badge/Demo-Static%20Gallery-176b55)](static_space#preview)
 
 </div>
 
@@ -42,17 +41,6 @@ On HOT3D and ARCTIC, StableHand achieves state-of-the-art performance across all
 https://github.com/user-attachments/assets/4ed90b51-4d77-4eb5-b3ee-b0dd6470cef4
 
 ## Installation
-
-### Browse precomputed examples
-
-The [static gallery](static_space) includes six HOT3D and four ARCTIC examples
-with synchronized input video, ground truth, and StableHand reconstruction.
-After cloning this repository, open `static_space/index.html` in your browser.
-Dataset filtering, slow playback, frame stepping, and fullscreen viewing work
-without Python, model downloads, or a GPU. See the [gallery instructions](static_space/README.md)
-for HTTP preview, media preparation, and Hugging Face Static Space packaging.
-
-### Run inference locally
 
 Tested on Linux with Python 3.10, PyTorch 2.5.1, and CUDA 12.4.
 
