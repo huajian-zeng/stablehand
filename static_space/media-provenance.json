@@ -1,0 +1,81 @@
+{
+  "description": "Precomputed released-checkpoint comparison renders; no live inference.",
+  "processing": "Title/footer crop, H264/yuv420p encoding, no temporal changes.",
+  "panels": [
+    "Input video",
+    "Ground truth",
+    "StableHand"
+  ],
+  "cases": [
+    {
+      "id": "clip-002736",
+      "dataset": "HOT3D",
+      "source": "outputs/hot3d/clip-002736_world3d.mp4",
+      "source_sha256": "b3a06ab45e9bfba9e2de8c251234f867ba952ece971447ef4a72d672550ebaac",
+      "video_sha256": "84273671d5d12461cd8b450f96fd6471d6d32091de2890130449137edb107b45"
+    },
+    {
+      "id": "clip-002026",
+      "dataset": "HOT3D",
+      "source": "outputs/hot3d/clip-002026_world3d.mp4",
+      "source_sha256": "38f3c3d4c10600482e9c220dc5ceb85eb55620027980b74ac4c2ae7350db6f88",
+      "video_sha256": "e3d26dd3e992aa3718431368ed0539201794d53cf31ed20c7338961fa72296cc"
+    },
+    {
+      "id": "clip-002223",
+      "dataset": "HOT3D",
+      "source": "outputs/hot3d/clip-002223_world3d.mp4",
+      "source_sha256": "ac8c5083515380b73111f24e00a702fb8acf17e07c87b38b35c7c30ca756f0cd",
+      "video_sha256": "0f4412788538671f9a2fdee0bbf3aba0f3243708ec5b7dc36c7b47ae6c772973"
+    },
+    {
+      "id": "clip-002904",
+      "dataset": "HOT3D",
+      "source": "outputs/hot3d/clip-002904_world3d.mp4",
+      "source_sha256": "2970bd60d8240e46127ec7c2507270567d341fabe01a2125e417f20acab3f1a3",
+      "video_sha256": "37c3afd1a5397b701cda64562191ca291097dbbe15c453b900aa3d37c40671f9"
+    },
+    {
+      "id": "clip-002945",
+      "dataset": "HOT3D",
+      "source": "outputs/hot3d/clip-002945_world3d.mp4",
+      "source_sha256": "05e811344c9675b80657df806be55b41b50ff99c6ba461ef307a42734283ca64",
+      "video_sha256": "2e75e26ba3f5c7d2da3e1995768204dbc01a40a5fa4addba179ae7e084d17e3a"
+    },
+    {
+      "id": "clip-003052",
+      "dataset": "HOT3D",
+      "source": "outputs/hot3d/clip-003052_world3d.mp4",
+      "source_sha256": "c50934849100401bcd87b6fe844d895b39e8a6f4cafdabb14e616b1c83362617",
+      "video_sha256": "e946dd4ef710472b99de67080ae353ff0fa4a738c3ee10f63f6bbe802095f049"
+    },
+    {
+      "id": "clip-300510",
+      "dataset": "ARCTIC",
+      "source": "outputs/arctic/clip-300510_world3d.mp4",
+      "source_sha256": "f59cda4fdc352a49a3f7fa2b05d764b835a635be95a2f52fc1d81a3f12edcd1b",
+      "video_sha256": "154f87c3cb11d5373fe7e827ab1cbb0d0d87db54ef225896f65441af5ed15a93"
+    },
+    {
+      "id": "clip-300514",
+      "dataset": "ARCTIC",
+      "source": "outputs/arctic/clip-300514_world3d.mp4",
+      "source_sha256": "0b3749eb6fa01963f69eb78bb12c1f32ae9d4a58a91d7330a56a1a0aae595583",
+      "video_sha256": "ecdf5c59ec8272141d6844b3522dd9a5b4db8ff0377ae510c23fd299e0f6a147"
+    },
+    {
+      "id": "clip-300591",
+      "dataset": "ARCTIC",
+      "source": "outputs/arctic/clip-300591_world3d.mp4",
+      "source_sha256": "58ab5acd9a8016a4bc595fe96bc406f251712988897e5f1e68b4fc5715cd9eb1",
+      "video_sha256": "c2393b77540e28382ad49199a89b149ce05e1777380f6de5b09c2a6e8e238a2b"
+    },
+    {
+      "id": "clip-300595",
+      "dataset": "ARCTIC",
+      "source": "outputs/arctic/clip-300595_world3d.mp4",
+      "source_sha256": "c82587b265656a24267672de390cd345710b14532d584cc3c865fc74128b0d14",
+      "video_sha256": "2fdfc8969ab49a2e331d29753c8c3c4a51b4d822b3df1e369fce9ae1e8b712bf"
+    }
+  ]
+}
