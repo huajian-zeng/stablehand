@@ -8,7 +8,7 @@
     <sup>&dagger;</sup>Corresponding author
     <br>
   </p>
-  <p align="center"><strong>NeurIPS 2026 (Poster)</strong></p>
+  <p align="center"><strong>NeurIPS 2026</strong></p>
 </p>
 
 <div id="top" align="center">
@@ -24,7 +24,7 @@
 
 ## Updates
 
-[2026-09-25] StableHand was accepted to NeurIPS 2026 as a poster. See you in Sydney!
+[2026-09-25] StableHand was accepted to NeurIPS 2026. See you in Sydney!
 
 [2026-09-07] We released an [enhanced version of StableHand](docs/enhanced_version.md). Code, pretrained models, and HOT3D/ARCTIC data for demos and full evaluation are now available.
 
