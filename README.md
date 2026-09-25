@@ -166,7 +166,7 @@ Results are saved to `outputs/benchmark_hot3d244/` and
 
 ## License and Acknowledgements
 
-Research use only under [CC BY-NC 4.0](LICENSE). StableHand builds on
+StableHand is released under the [MIT License](LICENSE). It builds on
 [WiLoR](https://github.com/rolpotamias/WiLoR),
 [VGGT-Omega](https://github.com/facebookresearch/vggt-omega), and
 [MANO](https://mano.is.tue.mpg.de/). Upstream components retain their respective licenses.
