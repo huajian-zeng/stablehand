@@ -8,6 +8,7 @@
     <sup>&dagger;</sup>Corresponding author
     <br>
   </p>
+  <p align="center"><strong>NeurIPS 2026 (Poster)</strong></p>
 </p>
 
 <div id="top" align="center">
@@ -23,15 +24,22 @@
 
 ## Updates
 
-[2026-05-18] Paper uploaded to [arXiv](https://arxiv.org/abs/2605.18553).
+[2026-09-25] StableHand was accepted to NeurIPS 2026 as a poster. See you in Sydney!
 
 [2026-09-07] We released an [enhanced version of StableHand](docs/enhanced_version.md). Code, pretrained models, and HOT3D/ARCTIC data for demos and full evaluation are now available.
+
+[2026-05-18] Paper uploaded to [arXiv](https://arxiv.org/abs/2605.18553).
 
 <p align="center">
   <img src="assets/teaser.jpg" alt="StableHand teaser" width="100%">
 </p>
 
 ## 🔥 Highlight
+
+Hand pose estimates from human videos often fail when hands leave the camera
+view or become occluded by manipulated objects. StableHand addresses this
+bottleneck so that large-scale human videos can provide reliable motion
+supervision for robot learning.
 
 StableHand is a quality-aware flow-matching framework that recovers world-space 4D motion of two interacting hands from egocentric video, even under long missing-hand spans and persistent hand–object occlusions.
 
@@ -148,10 +156,10 @@ Results are saved to `outputs/benchmark_hot3d244/` and
 ## Citation
 
 ```bibtex
-@article{zeng2026stablehand,
+@inproceedings{zeng2026stablehand,
   title = {StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video},
   author = {Zeng, Huajian and Yao, Chaohua and Zhang, Yuantai and Yang, Jiaqi and Potamias, Rolandos Alexandros and Zuo, Xingxing},
-  journal = {arXiv preprint arXiv:2605.18553},
+  booktitle = {Advances in Neural Information Processing Systems},
   year = {2026},
 }
 ```
