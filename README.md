@@ -1,11 +1,11 @@
 <p align="center">
   <h1 align="center"><strong>StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video</strong></h1>
   <p align="center">
-    <a href="https://huajian-zeng.github.io/">Huajian Zeng</a><sup>1</sup>, Chaohua Yao<sup>2</sup>, <a href="https://scholar.google.com/citations?user=Lh2CthAAAAAJ&hl">Yuantai Zhang</a><sup>1</sup>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=f7ox7CIAAAAJ">Jiaqi Yang</a><sup>1</sup>, <a href="https://rolpotamias.github.io/">Rolandos Alexandros Potamias</a><sup>3</sup>, <a href="https://xingxingzuo.github.io/">Xingxing Zuo</a><sup>1&dagger;</sup>
+    <a href="https://huajian-zeng.github.io/">Huajian Zeng</a><sup>1</sup>, Chaohua Yao<sup>2</sup>, <a href="https://scholar.google.com/citations?user=Lh2CthAAAAAJ&hl">Yuantai Zhang</a><sup>1</sup>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=f7ox7CIAAAAJ">Jiaqi Yang</a><sup>1,3</sup>, <a href="https://rolpotamias.github.io/">Rolandos Alexandros Potamias</a><sup>4</sup>, <a href="https://xingxingzuo.github.io/">Xingxing Zuo</a><sup>1,*</sup>
     <br>
-    <sup>1</sup>Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), <sup>2</sup>University of Illinois at Urbana-Champaign (UIUC), <sup>3</sup>Imperial College London
+    <sup>1</sup>Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), <sup>2</sup>University of Illinois at Urbana-Champaign (UIUC), <sup>3</sup>ShanghaiTech University, <sup>4</sup>Imperial College London
     <br>
-    <sup>&dagger;</sup>Corresponding author
+    <sup>*</sup>Corresponding author
     <br>
   </p>
   <p align="center"><strong>NeurIPS 2026</strong></p>
